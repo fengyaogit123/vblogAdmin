@@ -9,7 +9,7 @@
         <SidebarMenu />
         <div class="single-page-con" :class="{'single-page-sk':hideMenuText}">
             <!-- routers-tags -->
-            <!-- <RouteBox /> -->
+            <RouteBox />
             <div class="single-page">
                 <keep-alive :include="cacheStr">
                     <router-view></router-view>
