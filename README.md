@@ -4,7 +4,7 @@
 
 项目图片
 
-![image](https://github.com/fengyaogit123/vblogAdmin/raw/master/tree/master/static/img.jpg)
+![image](https://github.com/fengyaogit123/vblogAdmin/raw/master/images/img.jpg)
 
 
 ![image](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/1.jpg)
