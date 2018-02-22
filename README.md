@@ -4,16 +4,16 @@
 
 项目图片
 
-![](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/4.jpg)
+![image](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/4.jpg)
 
 
-![](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/1.jpg)
+![image](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/1.jpg)
 
 
-![](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/2.jpg)
+![image](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/2.jpg)
 
 
-![](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/3.jpg)
+![image](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/3.jpg)
 
 
-![](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/5.jpg)
+![image](https://github.com/fengyaogit123/vblogAdmin/tree/master/static/5.jpg)
