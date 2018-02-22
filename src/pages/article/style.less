@@ -1,0 +1,64 @@
+@import '../../styles/custom.less';
+#article {
+    .article-Search {
+        background-color: #fff;
+        padding: 30px;
+        border: 1px solid rgba(0, 0, 0, .1);
+    }
+    .arts-box {
+        margin-top: 25px;
+        >div {
+            margin-bottom: 16px;
+        }
+    }
+}
+
+.art-item {
+    border: 1px solid rgba(0, 0, 0, .1);
+    background-color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    .art-img {
+        width: 100%;
+        height: 154px;
+        overflow: hidden;
+        img {
+            width: 100%;
+            height: 100%;
+            transition: opacity .2s;
+        }
+        .defult-src {
+            opacity: .8;
+        }
+        &:hover {
+            img {
+                opacity: 1;
+            }
+        }
+    }
+    .art-body {
+        height: 150px;
+        padding: 20px;
+    }
+    .art-title {
+        color: rgba(0, 0, 0, .85);
+        &:hover {
+            color: @primary-color;
+        }
+    }
+    .art-content {
+        height: 44px;
+        line-height: 22px;
+        overflow: hidden;
+        color: rgba(0, 0, 0, .45);
+        margin-top: 15px;
+    }
+    .art-sub {
+        height: 20px;
+        line-height: 20px;
+        overflow: hidden;
+        color: rgba(0, 0, 0, .45);
+        margin-top: 15px;
+        font-size: 12px;
+    }
+}
